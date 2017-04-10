@@ -32,7 +32,7 @@ I have used provided image frame for each video as I found issue to process *.av
       kernel_type = rbf ( default )
       degree = 3 ( default )
 
- Evaluation: It is based on Leave-One-Out ( LOO ) cross validation mechanism.
+ Evaluation: It is based on K-Fold cross validation mechanism.
                First, I shuffle the feature list which contains features as well as label at the very first element of
                the feature vector to obtain better result. The complete set of shuffled features are divided equally
                into k=13 sub parts. k-1 subset is used for training and one subset is used for validation. I iterate the
