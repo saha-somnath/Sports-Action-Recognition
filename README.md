@@ -58,8 +58,8 @@ I have used provided image frame for each video as I found issue to process *.av
 This project has been tested with Histogram of Oriented Gradient (HOG) / Scale Invarient Feature Transfrom (SIFT) methods
 and Support Vector Machine (SVM)/ Random Forest classifier.
 
-Code: SportsActionRecognition_HOG_SVM.py : Implementation of Sports Action Recognition using HOG and SVM classifier.
-Code: SportsActionRecognition_HOG_RF.py : Implementation of Sports Action Recognition using HOG and Random Forest classifier. 
-Code: SportsActionRecognition_SIFT_SVM.py : Implementation of Sports Action Recognition using SIFT and SVM classifier.
+- Code: SportsActionRecognition_HOG_SVM.py : Implementation of Sports Action Recognition using HOG and SVM classifier.
+- Code: SportsActionRecognition_HOG_RF.py : Implementation of Sports Action Recognition using HOG and Random Forest classifier. 
+- Code: SportsActionRecognition_SIFT_SVM.py : Implementation of Sports Action Recognition using SIFT and SVM classifier.
 
  
